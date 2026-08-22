@@ -15,7 +15,7 @@
 `Splunk` `Elastic` `Microsoft Sentinel/Defender` `Wazuh` `Wireshark` `Volatility` `REMnux` `MITRE ATT&CK`
 
 ## 📁 Featured Project
-**[SOC-Portfolio](https://github.com/JophielArevalo/SOC-Portfolio)** — 6 fully documented labs (Elastic SOC build, Active Directory + Splunk, digital forensics, KQL threat hunting), 10 SOC triage case writeups, and 3 malware analysis reports (Stealc, Hancitor, StrelaStealer), all mapped to MITRE ATT&CK.
+**[SOC-Portfolio](https://github.com/JophielArevalo1998/SOC-Portfolio)** — 6 fully documented labs (Elastic SOC build, Active Directory + Splunk, digital forensics, KQL threat hunting), 10 SOC triage case writeups, and 3 malware analysis reports (Stealc, Hancitor, StrelaStealer), all mapped to MITRE ATT&CK.
 
 ## 📫 Contact
 📧 joparevalo@gmail.com · 💼 [LinkedIn](https://linkly.link/2eHME) · 🌐 [Portfolio](https://linkly.link/2eHMI)
