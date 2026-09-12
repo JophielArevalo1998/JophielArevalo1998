@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-I'm a **SOC Analyst** with a Master of Cybersecurity (First Class Honours, Griffith University) and hands-on experience across **SIEM monitoring, EDR investigation, detection engineering, and incident response**.
+I'm a **SOC Analyst** aspirant with a Master of Cybersecurity (First Class Honours, Griffith University) and hands-on experience across **SIEM monitoring, EDR investigation, detection engineering, and incident response**.
 
 I build real lab environments, simulate attacks, and develop detections — not just follow tutorials. My work spans Active Directory compromise, C2 framework deployment, brute force detection, digital forensics investigation, malware analysis, and network security engineering, all documented end-to-end in this portfolio.
 
@@ -18,7 +18,7 @@ Currently holding **Visa 485 with full work rights until 2028**.
 
 ## 💼 Experience
 
-**DFIR Intern** — MyDFIR Community *(Apr 2026 – Present)*  
+**Cyber Security Analyst Trainee** — MyDFIR Community *(Apr 2026 – Present)*  
 Building and operating SOC lab environments using Splunk, Elastic, and Microsoft Defender. Simulating attacks across Active Directory and Microsoft 365, conducting structured investigations, and developing tuned detection rules.
 
 **SOC Analyst Intern** — Secure DevLabs *(Mar 2026 – May 2026)*  
@@ -43,7 +43,7 @@ Triaged and investigated alerts across SIEM and EDR platforms. Deployed Wazuh, Z
 
 ---
 ## 📁 Featured Project
-**[SOC-Portfolio](https://github.com/JophielArevalo1998/SOC-Portfolio)** — 6 fully documented labs (Elastic SOC build, Active Directory + Splunk, digital forensics, KQL threat hunting), 10 SOC triage case writeups, and 3 malware analysis reports (Stealc, Hancitor, StrelaStealer), all mapped to MITRE ATT&CK.
+**[SOC-Portfolio](https://github.com/JophielArevalo1998/SOC-Portfolio)** — Fully documented labs (Elastic SOC build, Active Directory + Splunk, digital forensics, KQL threat hunting), 10 SOC triage case writeups, and 3 malware analysis reports (Stealc, Hancitor, StrelaStealer), MITRE ATT&CK Walktrough.
 
 ## 📫 Contact
 📧 joparevalo@gmail.com · 💼 [LinkedIn](https://linkly.link/2eHME) · 🌐 [Portfolio](https://linkly.link/2eHMI)
